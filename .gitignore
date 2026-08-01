@@ -1,0 +1,14 @@
+data/audio/**/*.aif
+data/audio/**/*.aiff
+data/audio/**/*.flac
+data/audio/**/*.m4a
+data/audio/**/*.mp3
+data/audio/**/*.ogg
+data/audio/**/*.wav
+
+outputs/raw/*
+outputs/normalized/*
+outputs/reports/*
+!outputs/raw/.gitkeep
+!outputs/normalized/.gitkeep
+!outputs/reports/.gitkeep
